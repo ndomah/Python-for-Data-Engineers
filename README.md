@@ -11,5 +11,3 @@ Got hands-on practice with Python 3 fundamentals, from basic data types to advan
 - Exception handling
 - Object-oriented programming (objects and classes)
 - Packages and modules
-
-## Repo Structure
